@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yagnik Monpara</h1>
 <h3 align="center">Full Stack Developer with a passion for innovation and clean, efficient code.</h3>
 
-- 🌱 I’m currently learning **React, Full Stack Development**
+- 🌱 I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [yagnikmonpara.com](yagnikmonpara.com)
 
