@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yagnik Monpara</h1>
+<h1 align="center">I'm Yagnik Monpara</h1>
 <h3 align="center">Full Stack Developer with a passion for innovation and clean, efficient code.</h3>
 
 - 🌱 I’m currently learning **MERN Stack Development**
